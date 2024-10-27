@@ -1,4 +1,6 @@
-## Hi there 👋
+# 👋 Hello, I’m Noah David!
+
+I'm passionate about cybersecurity and finance
 
 <!--
 **N0xAh/N0xAh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
