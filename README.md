@@ -1,6 +1,6 @@
 # 👋 Salut, moi c'est Noah
 
-> **Futur diplômé d'un Master d’Expert en Cybersécurité** > Passionné par la **Blue Team**, **L'automatisation** et l'**Intelligence Artificielle**
+> **Futur diplômé d'un Master d’Expert en Cybersécurité** > Passionné par la **Blue Team**, l'**Automatisation** et l'**Intelligence Artificielle**
 
 ### 🛠️ Mon Écosystème Technique
 
